@@ -1,0 +1,8 @@
+{
+  "name": "hotel-app",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/hotel-app",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
